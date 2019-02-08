@@ -1,13 +1,13 @@
 {
-  "name": "vdom",
+  "name": "mini-js-framework",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mini JavaScript framework with reactivity and virtual DOM",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mike Menaker",
   "license": "ISC"
 }
